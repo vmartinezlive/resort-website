@@ -1,0 +1,44 @@
+h1 {
+  text-align: center;
+  font-size:60px;
+  color: #F1F0F1;
+  font-family: 'Great Vibes', cursive;
+}
+
+body {
+  background-color: #8C8A8C;
+  text-align: center;
+}
+
+.top-photo {
+  border-radius: 75%;
+  display: block;
+  margin: 0 auto;
+  width: 700px;
+  height: 500px;
+}
+
+#left-photo {
+  border-radius: 50%;
+  display: block;
+  margin-left: auto;
+  width: 500px;
+  height: 300px;
+}
+
+#right-photo {
+  border-radius: 50%;
+  display: block;
+  margin-right: auto;
+  width: 500px;
+  height: 300px;
+}
+
+#left-p {
+  margin-right: auto;
+  padding: 0 15px; float: left;
+}
+
+#right-p {
+  margin-right: auto;
+}
